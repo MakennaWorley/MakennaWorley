@@ -12,6 +12,7 @@
 - 🔭 **Current Projects:**
   - [ChessWeb](https://github.com/MakennaWorley/ChessWeb-Django): A chess ratings and pairing system making use of the django famework.
   - [3D Visualizer](https://github.com/MakennaWorley/3D-Visualization-Plotter): A better 3D Visualizer tool than [DE Explorer - GeoGebra](https://www.geogebra.org/m/U3U6MsyA) which was the recommended tool by the MATH 363 Differential Equations Book.
+  - [Card Games](https://github.com/MakennaWorley/Card-Games-Python): Pure python code that plays cards games like Texas Hold'em.
 
 - 🌟 **Featured Contributions:**
   - [CircuitCraft](https://github.com/klenth/circuitcraft): A React based circuit drawing software to be used for the CMPT 328: Computer Architecture class. Created with Dr. Kathy Lenth and Shreeya Maskey during summer 2024 as summer research.
