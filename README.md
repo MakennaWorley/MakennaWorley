@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 **Education:** Studying Computer Science and Mathematics at Westminster University in SLC, Utah.
+- 🎓 **Education:** Studying Computer Science, Data Science, and Mathematics at Westminster University in SLC, Utah.
 - 💼 **Work:** Currently working as a Data & Analytics Intern at Ken Garff Automotive, learning Angular and Nestjs development.
 - 🌱 **Learning:** I'm constantly picking up new skills and languages to solve problems and make life more enjoyable! Including but not limited to Python, Rust, Java, and Web Development with Angular, Nestjs, Django, and React.
 - 🏆 **Awards** HackUSU 2025: Datathon 1st Place.
