@@ -42,7 +42,7 @@
 ![Makenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakennaWorley&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makennaworley&layout=compact&theme=github_dark)
 ![MakennaWorley github-stats](https://stats.dooboo.io/api/github-stats?login=MakennaWorley)
-![MakennaWorley github-trophies](https://stats.dooboo.io/api/github-trophies?login=MakennaWorley)
+![MakennaWorley hyochan-trophies](https://stats.hyo.dev/api/github-trophies?login=MakennaWorley)
 
 ## Connect with Me
 
