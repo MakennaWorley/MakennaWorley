@@ -41,7 +41,7 @@
 
 ![Makenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakennaWorley&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makennaworley&layout=compact&theme=github_dark)
-![Top Langs Expluding Notebooks](https://github-readme-stats.vercel.app/api/top-langs/?username=makennaworley&exclude_repo=Matrix-Encryption-Python,Convex-Hull-Python,Art-of-Programming-Python&layout=compact&theme=github_dark)
+![Top Langs Expluding Notebooks](https://github-readme-stats.vercel.app/api/top-langs/?username=makennaworley&exclude_repo=Matrix-Encryption-Python,Convex-Hull-Python,Art-of-Programming-Python,AI-Homework&layout=compact&theme=github_dark)
 
 ## Connect with Me
 
