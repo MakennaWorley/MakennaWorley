@@ -42,8 +42,18 @@
 ## GitHub Stats
 
 ![Makenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakennaWorley&show_icons=true&theme=radical)
+
+**Including Jupyter Notebooks**
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MakennaWorley&layout=compact&theme=github_dark)
+
+**Not Including Jupyter Notebooks**
+
 ![Top Langs Expluding Notebooks](https://github-readme-stats.vercel.app/api/top-langs/?username=MakennaWorley&exclude_repo=AI-Homework-Python,Matrix-Encryption-Python,Convex-Hull-Python,Art-of-Programming-Python&layout=compact&theme=github_dark)
+
+**Some other fun statss**
+
+These occasionaly fail to load (saying undefined but I believe they are: Commits, Pull Requests, Repositories respectively)
 
 ![github-stats](https://stats.hyo.dev/api/github-stats?login=MakennaWorley)
 ![github-trophies](https://stats.hyo.dev/api/github-trophies?login=MakennaWorley)
