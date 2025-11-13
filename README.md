@@ -49,7 +49,7 @@
 
 **Not Including Jupyter Notebooks**
 
-![Top Langs Excluding Notebooks](https://github-readme-stats.vercel.app/api/top-langs/?username=MakennaWorley&exclude_repo=Statistical-Learning-Labs-PythonR,ML-Homework-Python,Statistical-Learning-Homework-PythonR,AI-Homework-Python,Matrix-Encryption-Python,Convex-Hull-Python,Art-of-Programming-Python&layout=compact&theme=github_dark)
+![Top Langs Excluding Notebooks](https://github-readme-stats.vercel.app/api/top-langs/?username=MakennaWorley&exclude_repo=Statistical-Learning-Final-Python,Statistical-Learning-Labs-PythonR,ML-Homework-Python,Statistical-Learning-Homework-PythonR,AI-Homework-Python,Matrix-Encryption-Python,Convex-Hull-Python,Art-of-Programming-Python&layout=compact&theme=github_dark)
 
 **Some other fun statss**
 
