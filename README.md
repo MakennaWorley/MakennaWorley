@@ -43,15 +43,11 @@
 
 ![Makenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakennaWorley&show_icons=true&theme=radical)
 
-**Including Jupyter Notebooks**
+**Not Including Jupyter Notebooks or HTML from Rmd Notebooks**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MakennaWorley&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakennaWorley&hide=jupyter+notebook,html&layout=compact&theme=github_dark)
 
-**Not Including Jupyter Notebooks**
-
-![Top Langs Excluding Notebooks](https://github-readme-stats.vercel.app/api/top-langs/?username=MakennaWorley&exclude_repo=Kaggle-S5E11-Python,SL-Final-Python,SL-Labs-PythonR,ML-Homework-Python,SL-Homework-PythonR,AI-Homework-Python,Matrix-Encryption-Python,Convex-Hull-Python,Art-of-Programming-Python&layout=compact&theme=github_dark)
-
-**Some other fun statss**
+**Some other fun stats**
 
 These occasionaly fail to load (saying undefined but I believe they are: Commits, Pull Requests, Repositories respectively)
 
