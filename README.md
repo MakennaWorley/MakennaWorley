@@ -19,8 +19,8 @@
   - [ZenSpelling](https://github.com/westmini-software-engineering-2024sp/ZenSpelling): An interactive spelling game built in CMPT 322: Software Engineering. Created with: Drake AuClaire, Jesse Melanson, and Zoe Durham during spring 2024.
  
 - 🗂️ Previous Projects
-  - [Capstone Research](https://github.com/MakennaWorley/Capstone-TypescriptPython): Research into reconstructing missing values in high-dimensional stochastic data using probabilistic machine learning, implemented with a Python ML backend and a React + TypeScript frontend.
-  - [3D Visualizer](https://github.com/MakennaWorley/3D-Visualization-Plotter): A better 3D Visualizer tool than [DE Explorer - GeoGebra](https://www.geogebra.org/m/U3U6MsyA) which was the recommended tool by the MATH 363 Differential Equations Book. [Try the tool](https://makennaworley.com/3d/)
+  - [Capstone Research](https://github.com/MakennaWorley/Capstone-TypescriptPython): Research into reconstructing missing values in high-dimensional stochastic data using probabilistic machine learning, implemented with a Python ML backend and a React + TypeScript frontend. [Try the tool](https://capstone.makennaworley.com)
+  - [3D Visualizer](https://github.com/MakennaWorley/3D-Visualization-Plotter): A better 3D Visualizer tool than [DE Explorer - GeoGebra](https://www.geogebra.org/m/U3U6MsyA) which was the recommended tool by the MATH 363 Differential Equations Book. [Try the tool](https://makennaworley.com/3d)
   - [Card Games](https://github.com/MakennaWorley/Card-Games-Python): Pure python code that plays cards games like Texas Hold'em and has some AI players.
 
 ## Skills
