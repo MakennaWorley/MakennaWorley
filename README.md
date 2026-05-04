@@ -5,34 +5,40 @@
 - 🎓 **Education:** Studying Computer Science, Data Science, and Mathematics at Westminster University in SLC, Utah. Expected graduation date of May 2026.
 - 💼 **Work:** Currently working as a Data & Analytics Intern at Ken Garff Automotive, learning Angular and NestJS development.
 - 🌱 **Learning:** I'm constantly picking up new skills and languages to solve problems and make life more enjoyable! Including but not limited to Python, Rust, Java, Dart, and Web Development with Angular, Nestjs, Django, and React.
-- 🏆 **Awards** HackUSU 2025: Datathon 1st Place, 2026 Computer Science Student of the Year, 2026 Data Science Student of the Year.
+- 🏆 **Awards** HackUSU 2025: Datathon 1st Place, 2026 Outstanding Student of the Year award for Computer Science, 2026 Outstanding Student of the Year award for Data Science.
 
 ## Projects & Contributions
 
 - 🔭 **Current Projects:**
-  - Griffin Flight: An idle mobile game where you raise, train, and evolve a colony of griffins (private codebase).
+  - Griffin Flight: An idle mobile game where you raise, train, and evolve a colony of griffins (private codebase but using Dart and Flutter).
   - [From Scratch Database](https://github.com/MakennaWorley/From-Scratch-Database-Rust): A recreation of a SQL Database coded in Rust which uses csv files as the database.
-  - [ChessWeb](https://github.com/MakennaWorley/ChessWeb-Django): A chess ratings and pairing system making use of the django famework.
 
 - 🌟 **Featured Contributions:**
+  - [GET IT DONE With Griff](https://github.com/MakennaWorley/HackUSU2026-Javascript): Our 2026 HackUSU submission which is a chrome and desktop focus timer, built in Javascript.
   - [CircuitCraft](https://github.com/klenth/circuitcraft): A React based circuit drawing software to be used for the CMPT 328: Computer Architecture class. Created with Dr. Kathy Lenth and Shreeya Maskey during summer 2024 as summer research.
-  - [ZenSpelling](https://github.com/westmini-software-engineering-2024sp/ZenSpelling): An interactive spelling game built in CMPT 322: Software Engineering. Created with: Drake AuClaire, Jesse Melanson, and Zoe Durham during spring 2024.
+  - [ZenSpelling](https://github.com/westmini-software-engineering-2024sp/ZenSpelling): An interactive spelling game built in CMPT 322: Software Engineering with Django and Javascript. Created with: Drake AuClaire, Jesse Melanson, and Zoe Durham during spring 2024.
  
 - 🗂️ Previous Projects
-  - [Capstone Research](https://github.com/MakennaWorley/Capstone-TypescriptPython): Research into reconstructing missing values in high-dimensional stochastic data using probabilistic machine learning, implemented with a Python ML backend and a React + TypeScript frontend. [Try the tool](https://capstone.makennaworley.com)
-  - [3D Visualizer](https://github.com/MakennaWorley/3D-Visualization-Plotter): A better 3D Visualizer tool than [DE Explorer - GeoGebra](https://www.geogebra.org/m/U3U6MsyA) which was the recommended tool by the MATH 363 Differential Equations Book. [Try the tool](https://makennaworley.com/3d)
-  - [Card Games](https://github.com/MakennaWorley/Card-Games-Python): Pure python code that plays cards games like Texas Hold'em and has some AI players.
+  - [Capstone Research](https://github.com/MakennaWorley/Capstone-TypescriptPython): Research into reconstructing missing values in high-dimensional stochastic data using probabilistic machine learning, implemented with a Python (FastAPI) ML backend and a React + TypeScript frontend. [Try the tool](https://capstone.makennaworley.com)
+  - [Password Generator](https://github.com/MakennaWorley/Password-Generator-Ruby): A simple command-line password generator coded in Ruby.
+  - [msprime Modeling Simulated Disease and Polygentic Trats Within A Population](https://github.com/MakennaWorley/SL-Final-Python): Looking at prediction modeling in a synthetic population data with classification and regression. This project uses Python and was also used for [Statistical Modeling](https://github.com/MakennaWorley/SM-Final-PythonR)
+  - [3D Visualizer](https://github.com/MakennaWorley/3D-Visualization-Plotter): A better 3D Visualizer tool than [DE Explorer - GeoGebra](https://www.geogebra.org/m/U3U6MsyA) which was the recommended tool by the MATH 363 Differential Equations Book written in Javascript. [Try the tool](https://makennaworley.com/3d)
+  - [Card Games](https://github.com/MakennaWorley/Card-Games-Python): Pure python code that plays Texas Hold'em and has some AI players.
+
+-  🧰 Projects in Maintenance
+   - [Personal Portfolio](https://github.com/MakennaWorley/Personal-Website-Angular): My personal portfolio website likely updated more often than this GitHub Readme. Built in Angular, [see it live here](https://makennaworley.com)
+   - [ChessWeb](https://github.com/MakennaWorley/ChessWeb-Django): A chess ratings and pairing system making use of the django famework.
 
 ## Skills
 
 ### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 
 ### **Frontend & Design**
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff) ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff) ![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff) ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
 
 ### **Frameworks & Runtimes**
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white) ![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white) ![Preact](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white) ![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white) ![Preact](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 
 ### **Libraries & Data Science**
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff) ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff) ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
