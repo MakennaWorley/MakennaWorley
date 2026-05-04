@@ -1,10 +1,10 @@
-# Hi there, I'm Makenna Worley! 👋
+# Hi there, I'm Makenna Worley!
 
 ## About Me
 
 - 🎓 **Education:** Studying Computer Science, Data Science, and Mathematics at Westminster University in SLC, Utah. Expected graduation date of May 2026.
 - 💼 **Work:** Currently working as a Data & Analytics Intern at Ken Garff Automotive, learning Angular and NestJS development.
-- 🌱 **Learning:** I'm constantly picking up new skills and languages to solve problems and make life more enjoyable! Including but not limited to Python, Rust, Java, Dart, and Web Development with Angular, Nestjs, Django, and React.
+- 🌱 **Learning:** I'm constantly picking up new skills and languages to solve problems and make life more enjoyable! Including but not limited to Python, Rust, Java, Dart, Go, and Web Development with Angular, Nestjs, Django, and React.
 - 🏆 **Awards** HackUSU 2025: Datathon 1st Place, 2026 Outstanding Student of the Year award for Computer Science, 2026 Outstanding Student of the Year award for Data Science.
 
 ## Projects & Contributions
@@ -21,7 +21,8 @@
 - 🗂️ Previous Projects
   - [Capstone Research](https://github.com/MakennaWorley/Capstone-TypescriptPython): Research into reconstructing missing values in high-dimensional stochastic data using probabilistic machine learning, implemented with a Python (FastAPI) ML backend and a React + TypeScript frontend. [Try the tool](https://capstone.makennaworley.com)
   - [Password Generator](https://github.com/MakennaWorley/Password-Generator-Ruby): A simple command-line password generator coded in Ruby.
-  - [msprime Modeling Simulated Disease and Polygentic Trats Within A Population](https://github.com/MakennaWorley/SL-Final-Python): Looking at prediction modeling in a synthetic population data with classification and regression. This project uses Python and was also used for [Statistical Modeling](https://github.com/MakennaWorley/SM-Final-PythonR)
+  - [msprime Modeling Simulated Disease and Polygentic Trats Within A Population](https://github.com/MakennaWorley/SL-Final-Python): Looking at prediction modeling in a synthetic population data with classification and regression. This project uses Python and sci-kit learn.
+  - [Statistical Modeling](https://github.com/MakennaWorley/SM-Final-PythonR): Same data as `msprime Modeling Simulated Disease and Polygentic Trats Within A Population` but specifically looking just at the modeling of the data and no predictions. This project uses both Python (code from the previous project) and R (via .qmd) for the statistical modeling.
   - [3D Visualizer](https://github.com/MakennaWorley/3D-Visualization-Plotter): A better 3D Visualizer tool than [DE Explorer - GeoGebra](https://www.geogebra.org/m/U3U6MsyA) which was the recommended tool by the MATH 363 Differential Equations Book written in Javascript. [Try the tool](https://makennaworley.com/3d)
   - [Card Games](https://github.com/MakennaWorley/Card-Games-Python): Pure python code that plays Texas Hold'em and has some AI players.
 
@@ -62,7 +63,7 @@
 
 **Some other fun stats**
 
-These occasionaly fail to load (saying undefined but I believe they are: Commits, Pull Requests, Repositories respectively)
+These occasionaly fail to load (saying undefined but they are: Commits, Pull Requests, Repositories respectively)
 
 ![github-stats](https://stats.hyo.dev/api/github-stats?login=MakennaWorley)
 ![github-trophies](https://stats.hyo.dev/api/github-trophies?login=MakennaWorley)
