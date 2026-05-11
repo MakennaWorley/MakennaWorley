@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 **Education:** Studying Computer Science, Data Science, and Mathematics at Westminster University in SLC, Utah. Expected graduation date of May 2026.
+- 🎓 **Education:** Bachelor's of Science, majoring in Computer Science with minors in Data Science and Mathematics From Westminster University in SLC, Utah.
 - 💼 **Work:** Currently working as a Data & Analytics Intern at Ken Garff Automotive, learning Angular and NestJS development.
 - 🌱 **Learning:** I'm constantly picking up new skills and languages to solve problems and make life more enjoyable! Including but not limited to Python, Rust, Java, Dart, Go, and Web Development with Angular, Nestjs, Django, and React.
 - 🏆 **Awards** HackUSU 2025: Datathon 1st Place, 2026 Outstanding Student of the Year award for Computer Science, 2026 Outstanding Student of the Year award for Data Science.
@@ -11,6 +11,7 @@
 
 - 🔭 **Current Projects:**
   - Griffin Flight: An idle mobile game where you raise, train, and evolve a colony of griffins (private codebase but using Dart and Flutter).
+  - [File Sharing](https://github.com/MakennaWorley/File-Sharing-GoNext): A file distribution web service that uses keys to control who can download the files.
   - [From Scratch Database](https://github.com/MakennaWorley/From-Scratch-Database-Rust): A recreation of a SQL Database coded in Rust which uses csv files as the database.
 
 - 🌟 **Featured Contributions:**
@@ -20,6 +21,7 @@
  
 - 🗂️ Previous Projects
   - [Capstone Research](https://github.com/MakennaWorley/Capstone-TypescriptPython): Research into reconstructing missing values in high-dimensional stochastic data using probabilistic machine learning, implemented with a Python (FastAPI) ML backend and a React + TypeScript frontend. [Try the tool](https://capstone.makennaworley.com)
+  - [Reef Watch](https://github.com/MakennaWorley/Reef-Streamlit): A Streamlit and MongoDB application that scraps and visualizes global reef temperatures from the NOAA's Coral Reef Watch program.
   - [Password Generator](https://github.com/MakennaWorley/Password-Generator-Ruby): A simple command-line password generator coded in Ruby.
   - [msprime Modeling Simulated Disease and Polygentic Trats Within A Population](https://github.com/MakennaWorley/SL-Final-Python): Looking at prediction modeling in a synthetic population data with classification and regression. This project uses Python and sci-kit learn.
   - [Statistical Modeling](https://github.com/MakennaWorley/SM-Final-PythonR): Same data as `msprime Modeling Simulated Disease and Polygentic Trats Within A Population` but specifically looking just at the modeling of the data and no predictions. This project uses both Python (code from the previous project) and R (via .qmd) for the statistical modeling.
