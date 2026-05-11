@@ -25,6 +25,7 @@
   - [Password Generator](https://github.com/MakennaWorley/Password-Generator-Ruby): A simple command-line password generator coded in Ruby.
   - [msprime Modeling Simulated Disease and Polygentic Trats Within A Population](https://github.com/MakennaWorley/SL-Final-Python): Looking at prediction modeling in a synthetic population data with classification and regression. This project uses Python and sci-kit learn.
   - [Statistical Modeling](https://github.com/MakennaWorley/SM-Final-PythonR): Same data as `msprime Modeling Simulated Disease and Polygentic Trats Within A Population` but specifically looking just at the modeling of the data and no predictions. This project uses both Python (code from the previous project) and R (via .qmd) for the statistical modeling.
+  - [Custom Chatroom](https://github.com/MakennaWorley/Custom-Chatroom-JavaRust): Built with Shreeya Maskey, I worked on the Rust Server while she worked on the Java client for a custom chatroom application.
   - [3D Visualizer](https://github.com/MakennaWorley/3D-Visualization-Plotter): A better 3D Visualizer tool than [DE Explorer - GeoGebra](https://www.geogebra.org/m/U3U6MsyA) which was the recommended tool by the MATH 363 Differential Equations Book written in Javascript. [Try the tool](https://makennaworley.com/3d)
   - [Card Games](https://github.com/MakennaWorley/Card-Games-Python): Pure python code that plays Texas Hold'em and has some AI players.
 
