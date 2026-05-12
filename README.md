@@ -11,7 +11,7 @@
 
 - 🔭 **Current Projects:**
   - Griffin Flight: An idle mobile game where you raise, train, and evolve a colony of griffins (private codebase but using Dart and Flutter).
-  - [File Sharing](https://github.com/MakennaWorley/File-Sharing-GoNext): A file distribution web service that uses keys to control who can download the files.
+  - [Digital Locker](https://github.com/MakennaWorley/Digital-Locker-GoNext): A file distribution web service that uses keys to control who can download the files.
   - [From Scratch Database](https://github.com/MakennaWorley/From-Scratch-Database-Rust): A recreation of a SQL Database coded in Rust which uses csv files as the database.
 
 - 🌟 **Featured Contributions:**
