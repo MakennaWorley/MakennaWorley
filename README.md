@@ -3,7 +3,8 @@
 ## About Me
 
 - 🎓 **Education:** Bachelor's of Science, majoring in Computer Science with minors in Data Science and Mathematics From Westminster University in SLC, Utah.
-- 💼 **Work:** Currently working as a Data & Analytics Intern at Ken Garff Automotive, learning Angular and NestJS development.
+- 💼 **Work:** Currently looking for full time employment in Software Development or Data in Salt Lake City, Utah.
+- 💻 **Previous Experience:** Data & Analytics Intern at Ken Garff Automtive, Software Engineer Intern RanLife Home Loans.
 - 🌱 **Learning:** I'm constantly picking up new skills and languages to solve problems and make life more enjoyable! Including but not limited to Python, Rust, Java, Dart, Go, and Web Development with Angular, Nestjs, Django, and React.
 - 🏆 **Awards** HackUSU 2025: Datathon 1st Place, 2026 Outstanding Student of the Year award for Computer Science, 2026 Outstanding Student of the Year award for Data Science.
 
